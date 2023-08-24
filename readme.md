@@ -2,15 +2,15 @@
 
 #### Desafio: Implementar um Sistema de Gerenciamento de Tarefas usando Spring Boot e Spring MVC
 
-###Descrição:
+### Descrição:
 O objetivo deste desafio é criar um sistema simples de gerenciamento de tarefas utilizando o Spring Framework. O sistema permitirá que os usuários cadastrem, visualizem, atualizem e excluam tarefas.
 
-###Configuração do Projeto:
+### Configuração do Projeto:
 
 Utilize o Spring Initializr para configurar o projeto Spring Boot.
 Adicione as dependências necessárias
 
-##Dependências utilizadas:
+### Dependências utilizadas:
 
 - Spring boot data JPA
 - Spring boot DevTools
@@ -21,7 +21,7 @@ Adicione as dependências necessárias
 - Postgresql
 - Lombok
 
-###Tarefa:
+### Tarefa:
 
 Crie uma entidade "Task" que tenha os seguintes atributos: id, título, descrição, data de criação e status (concluída ou não).
 
